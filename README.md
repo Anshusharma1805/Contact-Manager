@@ -1,7 +1,6 @@
 # Contact Manager Application
   
-![Contact Manager App](https://via.placeholder.com/800x400.png?text=Contact+Manager+App)
-*A modern Contact Manager built with React, leveraging local storage for persistent data.*
+![Contact Manager App](https://github.com/Anshusharma1805/Contact-Manager/blob/main/Code/1.png)
 
 ## About the Project
 
