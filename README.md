@@ -41,5 +41,3 @@ This app is ideal for users who want a simple way to organize their personal or 
    http://localhost:3000
     ```
 
-<img src
-   
